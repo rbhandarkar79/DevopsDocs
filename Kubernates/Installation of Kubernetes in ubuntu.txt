@@ -36,7 +36,7 @@ daemon.json containes below configuration :
 after we updated above content in daemon.json then we have to restart docker daemon service by using below command 
 sudo systemctl restart docker 
 
-
+cd~
  
 apt-get update && apt-get install -y kubeadm kubelet kubectl
 
